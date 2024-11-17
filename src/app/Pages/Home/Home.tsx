@@ -100,7 +100,7 @@ const Home = () => {
                   }`}
                 >
                   <p className="text-white text-xl sm:text-2xl md:text-3xl break-words">
-                    {answer}
+                    "{answer}"
                   </p>
                   <hr className="my-6 md:my-8 border-t border-white/20" />
                 </div>
